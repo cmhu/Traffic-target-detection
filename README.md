@@ -11,20 +11,20 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/5.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/5-1.jpg" width="480" height="270" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/6.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/6-1.jpg" width="480" height="270" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/7.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/7-1.jpg" width="480" height="270" /> </td>
   </tr>     
     <tr>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
-    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/01.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/8.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/8-1.jpg" width="480" height="270" /> </td>
   </tr>  
 </table>
 
